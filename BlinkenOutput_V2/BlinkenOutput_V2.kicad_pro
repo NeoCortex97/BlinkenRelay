@@ -96,7 +96,7 @@
         "padstack": "warning",
         "pth_inside_courtyard": "ignore",
         "shorting_items": "error",
-        "silk_edge_clearance": "warning",
+        "silk_edge_clearance": "ignore",
         "silk_over_copper": "warning",
         "silk_overlap": "warning",
         "skew_out_of_range": "error",
@@ -591,7 +591,7 @@
   "sheets": [
     [
       "348039dd-e6ff-48bb-8c9c-56415e7b6815",
-      "Root"
+      "Stammblatt"
     ]
   ],
   "text_variables": {}
