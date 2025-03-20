@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '93.11'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "FINDER", "93.11" (!) = "", "93.11", "Other", "", "", "", "", "FINDER - 93.11 - SOCKET, PCB MOUNT, 34 SERIES", "http://gfinder.findernet.com/assets/Series/411/S34EN.pdf"
+END_PART
+
+END.

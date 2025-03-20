@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "AST2130402"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "AST2130402")
+        (spec "default")
+    )
+)

@@ -1,0 +1,18 @@
+.AST2130402 :1 ;METZ CONNECT - AST2130402 - Wire-To-Board Terminal Block, 3.5 mm, 4 Ways, 28 AWG, 16 AWG, 1.5 mm, Push In
+AST2130402
+*STM J
+*NGS
+*PLB 1="1" 2="2" 3="3" 4="4" 5="5" 6="6" 7="7" 8="8"
+*MXP 8
+*DFN AST2130402
+~!Manufacturer_Name (Metz Connect)
+~!Manufacturer_Part_Number (AST2130402)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://media.metz-connect.com/files/171/Data_sheet_AST213.PDF)
+~!Height (14.2mm)
+~!3D_Model (AST2130402)
+AST2130402
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 

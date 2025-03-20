@@ -1,0 +1,9 @@
+Manufacturer=FINDER
+PartNumber=93.11
+PartCategory=Relay or Contactor
+PackageCategory=Other
+PinCount=5
+Version=1.1
+Released=2017-09-12 12:06:39
+Downloaded=2025-03-11 22:35:59
+3D=Y

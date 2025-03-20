@@ -74,7 +74,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "BlinkenController_V1.kicad_prl",
+    "filename": "BlinkenRelay_V1.kicad_prl",
     "version": 3
   },
   "project": {

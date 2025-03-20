@@ -1,0 +1,9 @@
+Manufacturer=Metz Connect
+PartNumber=AST2130402
+PartCategory=Connector
+PackageCategory=Other
+PinCount=8
+Version=1.6
+Released=2021-07-16 07:53:57
+Downloaded=2025-03-11 21:01:36
+3D=Y

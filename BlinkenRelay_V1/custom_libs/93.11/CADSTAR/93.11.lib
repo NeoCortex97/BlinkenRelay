@@ -1,0 +1,18 @@
+.93.11 :1 ;FINDER - 93.11 - SOCKET, PCB MOUNT, 34 SERIES
+"93.11"
+*STM K
+*NGS
+*PLB 1="A2" 2="A1" 3="12" 4="11" 5="14"
+*MXP 5
+*DFN 93.11
+~!Manufacturer_Name (FINDER)
+~!Manufacturer_Part_Number (93.11)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (http://gfinder.findernet.com/assets/Series/411/S34EN.pdf)
+~!Height (-)
+~!3D_Model (93.11)
+"93.11"
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 
